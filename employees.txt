@@ -1,0 +1,3 @@
+Name: Karan
+Salary: 40000
+Department: IT
